@@ -1,0 +1,4 @@
+Criar um formulario onde possa ser informado o apelido, nome completo, email, endereco (um campo texto simples).
+
+Ele deve guardar as informacoes e exibir.
+
